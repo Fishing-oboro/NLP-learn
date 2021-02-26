@@ -1,5 +1,5 @@
 # NLP-learn
-- [概要](https://github.com/Fishing-oboro/NLP-learn/blob/main/index/%E6%A6%82%E8%A6%81.md)
+- [全体の流れ](https://github.com/Fishing-oboro/NLP-learn/blob/main/index/%E6%A6%82%E8%A6%81.md)
 - [TF-IDF](https://github.com/Fishing-oboro/NLP-learn/blob/main/index/TF_IDF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.ipynb) 
 - [word2vec](https://github.com/Fishing-oboro/NLP-learn/blob/main/index/word2vec.ipynb)
 - [Doc2vec](https://github.com/Fishing-oboro/NLP-learn/blob/main/index/Doc2vec.ipynb)   
