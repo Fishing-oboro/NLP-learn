@@ -6,4 +6,4 @@
 - [参考文献](https://github.com/Fishing-oboro/NLP-learn/blob/main/index/%E5%8F%82%E8%80%83%E8%A8%98%E4%BA%8B.md)  
 
 **GoogleColaboratoryで作成されたファイルは数式が正しく表示されていない場合があります。  
-**.ipynbが表示されない場合、[こちら](https://nbviewer.jupyter.org/)にURLを入力すると見ることができます。
+**.ipynbが表示されない場合、[こちら](https://nbviewer.jupyter.org/)にURLを入力することで閲覧できます。
